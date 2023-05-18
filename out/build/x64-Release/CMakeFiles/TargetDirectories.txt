@@ -1,0 +1,6 @@
+C:/Users/adeon/Downloads/Nouveau dossier/reaper-sdk-vscode/out/build/x64-Release/CMakeFiles/reaper_myplugin.dir
+C:/Users/adeon/Downloads/Nouveau dossier/reaper-sdk-vscode/out/build/x64-Release/CMakeFiles/INSTALL.dir
+C:/Users/adeon/Downloads/Nouveau dossier/reaper-sdk-vscode/out/build/x64-Release/CMakeFiles/ALL_BUILD.dir
+C:/Users/adeon/Downloads/Nouveau dossier/reaper-sdk-vscode/out/build/x64-Release/CMakeFiles/ZERO_CHECK.dir
+C:/Users/adeon/Downloads/Nouveau dossier/reaper-sdk-vscode/out/build/x64-Release/source/CMakeFiles/reaper_plugin.dir
+C:/Users/adeon/Downloads/Nouveau dossier/reaper-sdk-vscode/out/build/x64-Release/source/CMakeFiles/INSTALL.dir

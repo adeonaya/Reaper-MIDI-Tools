@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\adeon\Downloads\Nouveau dossier\reaper-sdk-vscode\source\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\adeon\Downloads\Nouveau dossier\reaper-sdk-vscode\source\my_plugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\adeon\Downloads\Nouveau dossier\reaper-sdk-vscode\source\window.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\adeon\Downloads\Nouveau dossier\reaper-sdk-vscode\source\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{B6D3E913-7019-3179-9231-B480F36E2452}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A8D787C0-7953-3471-A42B-272467DC5B4B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

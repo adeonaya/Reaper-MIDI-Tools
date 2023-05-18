@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Le répertoire Output ne se termine pas par une barre oblique finale. Cette instance de build ajoutera une barre oblique, comme requis, pour permettre l'évaluation correcte du répertoire Output.
+     Création de la bibliothèque C:/Users/adeon/Downloads/Nouveau dossier/reaper-sdk-vscode/build/Release/reaper_myplugin-x64.lib et de l'objet C:/Users/adeon/Downloads/Nouveau dossier/reaper-sdk-vscode/build/Release/reaper_myplugin-x64.exp
+  Génération de code en cours
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 29 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  reaper_myplugin.vcxproj -> C:\Users\adeon\Desktop\Reaper\UserPlugins\reaper_tools.dll

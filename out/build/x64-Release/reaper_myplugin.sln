@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ALL_BUILD", "ALL_BUILD.vcxproj", "{7E194015-95D6-3BE2-B44B-CCF9A17A8500}"
+	ProjectSection(ProjectDependencies) = postProject
+		{539EBD27-C392-34CF-B79C-CE479D07CCE2} = {539EBD27-C392-34CF-B79C-CE479D07CCE2}
+		{716A36E6-97D9-3D08-8659-997E6B41C87C} = {716A36E6-97D9-3D08-8659-997E6B41C87C}
+		{6B14FDE0-EC38-361F-8D14-DE9B47E3C3F7} = {6B14FDE0-EC38-361F-8D14-DE9B47E3C3F7}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "INSTALL", "INSTALL.vcxproj", "{18E4641E-1A05-3032-93B3-DF130E4F8EE9}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7E194015-95D6-3BE2-B44B-CCF9A17A8500} = {7E194015-95D6-3BE2-B44B-CCF9A17A8500}
+		{539EBD27-C392-34CF-B79C-CE479D07CCE2} = {539EBD27-C392-34CF-B79C-CE479D07CCE2}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZERO_CHECK", "ZERO_CHECK.vcxproj", "{539EBD27-C392-34CF-B79C-CE479D07CCE2}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "reaper_myplugin", "reaper_myplugin.vcxproj", "{716A36E6-97D9-3D08-8659-997E6B41C87C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{539EBD27-C392-34CF-B79C-CE479D07CCE2} = {539EBD27-C392-34CF-B79C-CE479D07CCE2}
+		{6B14FDE0-EC38-361F-8D14-DE9B47E3C3F7} = {6B14FDE0-EC38-361F-8D14-DE9B47E3C3F7}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "reaper_plugin", "source\reaper_plugin.vcxproj", "{6B14FDE0-EC38-361F-8D14-DE9B47E3C3F7}"
+	ProjectSection(ProjectDependencies) = postProject
+		{539EBD27-C392-34CF-B79C-CE479D07CCE2} = {539EBD27-C392-34CF-B79C-CE479D07CCE2}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		RelWithDebInfo|x64 = RelWithDebInfo|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E194015-95D6-3BE2-B44B-CCF9A17A8500}.RelWithDebInfo|x64.ActiveCfg = RelWithDebInfo|x64
+		{7E194015-95D6-3BE2-B44B-CCF9A17A8500}.RelWithDebInfo|x64.Build.0 = RelWithDebInfo|x64
+		{18E4641E-1A05-3032-93B3-DF130E4F8EE9}.RelWithDebInfo|x64.ActiveCfg = RelWithDebInfo|x64
+		{539EBD27-C392-34CF-B79C-CE479D07CCE2}.RelWithDebInfo|x64.ActiveCfg = RelWithDebInfo|x64
+		{539EBD27-C392-34CF-B79C-CE479D07CCE2}.RelWithDebInfo|x64.Build.0 = RelWithDebInfo|x64
+		{716A36E6-97D9-3D08-8659-997E6B41C87C}.RelWithDebInfo|x64.ActiveCfg = RelWithDebInfo|x64
+		{716A36E6-97D9-3D08-8659-997E6B41C87C}.RelWithDebInfo|x64.Build.0 = RelWithDebInfo|x64
+		{6B14FDE0-EC38-361F-8D14-DE9B47E3C3F7}.RelWithDebInfo|x64.ActiveCfg = RelWithDebInfo|x64
+		{6B14FDE0-EC38-361F-8D14-DE9B47E3C3F7}.RelWithDebInfo|x64.Build.0 = RelWithDebInfo|x64
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F547CCBF-C5D7-34EA-B852-86EA4F46640B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

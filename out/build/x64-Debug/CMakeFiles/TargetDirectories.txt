@@ -1,0 +1,12 @@
+C:/Users/adeon/Downloads/Nouveau dossier/reaper-sdk-vscode/out/build/x64-Debug/CMakeFiles/reaper_myplugin.dir
+C:/Users/adeon/Downloads/Nouveau dossier/reaper-sdk-vscode/out/build/x64-Debug/CMakeFiles/install/local.dir
+C:/Users/adeon/Downloads/Nouveau dossier/reaper-sdk-vscode/out/build/x64-Debug/CMakeFiles/install.dir
+C:/Users/adeon/Downloads/Nouveau dossier/reaper-sdk-vscode/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/adeon/Downloads/Nouveau dossier/reaper-sdk-vscode/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/adeon/Downloads/Nouveau dossier/reaper-sdk-vscode/out/build/x64-Debug/CMakeFiles/list_install_components.dir
+C:/Users/adeon/Downloads/Nouveau dossier/reaper-sdk-vscode/out/build/x64-Debug/source/CMakeFiles/reaper_plugin.dir
+C:/Users/adeon/Downloads/Nouveau dossier/reaper-sdk-vscode/out/build/x64-Debug/source/CMakeFiles/list_install_components.dir
+C:/Users/adeon/Downloads/Nouveau dossier/reaper-sdk-vscode/out/build/x64-Debug/source/CMakeFiles/install/local.dir
+C:/Users/adeon/Downloads/Nouveau dossier/reaper-sdk-vscode/out/build/x64-Debug/source/CMakeFiles/install.dir
+C:/Users/adeon/Downloads/Nouveau dossier/reaper-sdk-vscode/out/build/x64-Debug/source/CMakeFiles/edit_cache.dir
+C:/Users/adeon/Downloads/Nouveau dossier/reaper-sdk-vscode/out/build/x64-Debug/source/CMakeFiles/rebuild_cache.dir

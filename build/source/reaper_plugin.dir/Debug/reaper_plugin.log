@@ -1,0 +1,5 @@
+﻿cl : ligne de commande warning D9025: substitution de '/external:W3' par '/external:W0'
+  main.cpp
+  my_plugin.cpp
+  Génération de code en cours...
+  reaper_plugin.vcxproj -> C:\Users\adeon\Downloads\Nouveau dossier\reaper-sdk-vscode\build\source\reaper_plugin.dir\Debug\reaper_plugin.lib

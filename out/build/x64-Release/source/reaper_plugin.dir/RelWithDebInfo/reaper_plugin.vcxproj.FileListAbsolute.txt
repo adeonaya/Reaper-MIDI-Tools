@@ -1,0 +1,1 @@
+C:\Users\adeon\Downloads\Nouveau dossier\reaper-sdk-vscode\out\build\x64-Release\source\reaper_plugin.dir\RelWithDebInfo\reaper_plugin.lib
